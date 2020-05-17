@@ -1,0 +1,46 @@
+body {
+    background-color:darkcyan;
+}
+
+#input {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+h1 {
+    color: coral;
+    text-align: center;
+}
+#task {
+    padding: 10px;
+    color: cornflowerblue;
+    border: 1px solid lightblue;
+}
+button#add {
+    background-color: lightcyan;
+}
+button.remove {
+    padding: 5px;
+    margin-left: 20px;
+    background-color: lightgoldenrodyellow;
+    opacity: 0.7;
+}
+button.remove:hover {
+    background-color: lightskyblue;
+}
+ul {
+    width: 75%;
+    margin: 20px auto;
+    text-align: center;
+}
+li {
+    list-style-type: none;
+    color: whitesmoke;
+    font-weight: 600;
+    font-size: 1.3em;
+}
+h4 {
+    color: black;
+    text-decoration-color: darkgreen;
+    align-content: center;
+}
